@@ -23,7 +23,7 @@ The Role of Machine Learning
 This dataset is composed of survey results for more than 700 people who filled an app form. There are labels portraying whether the person received a diagnosis of autism, allowing machine learning models to predict the likelihood of having autism, therefore allowing healthcare professionals prioritize their resources.
  Sure, I can help you create a README.md file for your project based on the provided content. Here's a template for a README.md file that includes the content you've shared:
 
-```markdown
+ 
 # Autism Prediction using Machine Learning
 
 ## Introduction
